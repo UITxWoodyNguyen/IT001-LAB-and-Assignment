@@ -1,5 +1,6 @@
 # UIT Coursework - Programming Labs & Assignments
 ###### Subject: IT001 - Nhập môn lập trình
+###### Class: IT001.Q121
 ###### Author: Woody Nguyễn - University of Information Technology (UIT)
 
 This repository contains a collection of laboratory exercises, assignments, and templates developed for my university programming courses. The content primarily focuses on C++ development, data structures, and problem-solving.
